@@ -1,0 +1,18 @@
+# Elevate Digital
+
+> Web design, local SEO, performance optimization, and analytics consulting for local and online businesses. Offers a free, no-obligation website review.
+
+## Key facts
+- Elevate Digital helps local and online businesses win more customers online.
+- Services: website audits, modern redesigns, local SEO, performance & security, analytics setup, online booking integration.
+- The initial website review is free with no obligation.
+- Serves the Washington DC, Maryland, and Virginia area, plus remote nationwide.
+- Contact: jclaw467@gmail.com
+
+## Pages
+- [elevate-digital](https://johnclawthelegend.github.io/elevate-digital/)
+- [contact](https://johnclawthelegend.github.io/elevate-digital/contact/)
+- [privacy](https://johnclawthelegend.github.io/elevate-digital/privacy/)
+
+## Contact
+jclaw467@gmail.com

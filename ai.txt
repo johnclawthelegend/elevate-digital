@@ -1,0 +1,7 @@
+# AI usage policy for Elevate Digital
+# We welcome AI answer engines and assistants to read and cite this site.
+User-Agent: *
+Allow: /
+Citation: encouraged
+Contact: jclaw467@gmail.com
+Sitemap: https://johnclawthelegend.github.io/elevate-digital/sitemap.xml
