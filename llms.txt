@@ -13,6 +13,8 @@
 - [elevate-digital](https://johnclawthelegend.github.io/elevate-digital/)
 - [contact](https://johnclawthelegend.github.io/elevate-digital/contact/)
 - [privacy](https://johnclawthelegend.github.io/elevate-digital/privacy/)
+- [links](https://johnclawthelegend.github.io/elevate-digital/links/)
+- [checklist](https://johnclawthelegend.github.io/elevate-digital/checklist/)
 
 ## Contact
 jclaw467@gmail.com
