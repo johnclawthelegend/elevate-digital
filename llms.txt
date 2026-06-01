@@ -14,6 +14,7 @@
 - [contact](https://johnclawthelegend.github.io/elevate-digital/contact/)
 - [privacy](https://johnclawthelegend.github.io/elevate-digital/privacy/)
 - [terms](https://johnclawthelegend.github.io/elevate-digital/terms/)
+- [tos](https://johnclawthelegend.github.io/elevate-digital/tos/)
 - [links](https://johnclawthelegend.github.io/elevate-digital/links/)
 - [checklist](https://johnclawthelegend.github.io/elevate-digital/checklist/)
 
